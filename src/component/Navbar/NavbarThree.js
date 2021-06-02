@@ -60,10 +60,9 @@ class NavbarThree extends Component {
           </div>
           <div className="menu_body">
             <div className="menu_title">
-              <h2>Welcome to John</h2>
+              <h2>Welcome to Tomcat Transport</h2>
               <p>
-                Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor
-                auctor maecenas.
+                We hope you find just what you are looking for.
               </p>
             </div>
             <div className="off_menu">
@@ -84,8 +83,8 @@ class NavbarThree extends Component {
             </div>
             <div className="copy_right_menu">
               <p>
-                © <a href="/#">John</a> 2020. All Rights Reseverd Design by
-                Blazethemez
+                © <a href="/#">Tomcat Transport LLC</a> 2021. All Rights Reserved Design by
+                MBussen
               </p>
             </div>
           </div>

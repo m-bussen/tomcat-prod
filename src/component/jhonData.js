@@ -1,5 +1,5 @@
 const jhonData = {
-  name: "John Deo.",
+  name: "Tomcat Transport",
   name2: "Richard Tea.",
   name3: "Alexa Johnson",
   role: "Visual Designer & Front-End Developer,",
@@ -91,7 +91,7 @@ const jhonData = {
         {
           id: 3,
           icon: "icon_mail",
-          text: "Email: yourname@somemail.com",
+          text: "Email: TomcatTransportLLC@gmail.com",
         },
         {
           id: 4,
